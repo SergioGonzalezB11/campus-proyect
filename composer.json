@@ -1,0 +1,19 @@
+{
+    "name": "apolm01-019/dashbosrd-sag",
+    "description": "dashbosrh",
+    "authors": [
+        {
+            "name": "SergioGonzalezB11",
+            "email": "sagonzalezbarajas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "App\\": "./clases",
+            "Models\\": "./models",
+            "Controllers\\": "./controllers"
+        }
+    }
+
+}
